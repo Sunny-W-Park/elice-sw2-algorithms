@@ -4,10 +4,10 @@
 
 ## 참여자
 
-* [김재민](https://github.com/cyberjam)
-* [박선우](https://github.com/Sunny-W-Park)
-* [백성호]()
-* [지의신](https://github.com/usgeeus)
+[김재민](https://github.com/cyberjam)
+[박선우](https://github.com/Sunny-W-Park)
+[백성호]()
+[지의신](https://github.com/usgeeus)
 
 
 ## 진행 방법
