@@ -1,12 +1,13 @@
 # elice-sw2-algorithms
 엘리스 SW 트랙 2기 파이썬 알고리즘 문제풀이 스터디 레포지토리입니다.
 
+
 ## 참여자
 
-* 김재민
-* 박선우
-* 백성호
-* 지의신
+* [김재민](https://github.com/cyberjam)
+* [박선우](https://github.com/Sunny-W-Park)
+* [백성호]()
+* [지의신](https://github.com/usgeeus)
 
 
 ## 진행 방법
