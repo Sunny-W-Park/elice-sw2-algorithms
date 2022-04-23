@@ -6,7 +6,7 @@
 
 [김재민](https://github.com/cyberjam)
 [박선우](https://github.com/Sunny-W-Park)
-[백성호]()
+[백성호](https://github.com/shbaek1997)
 [지의신](https://github.com/usgeeus)
 
 
