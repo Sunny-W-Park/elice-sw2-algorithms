@@ -13,6 +13,7 @@ def dfs(x2,y2,d):
     global result
     if x2 == n-1 and y2 == n-1:
             result += 1
+            return
     if d == 0 or d == 2:
         ny2 = y2 + 1
         if ny2 < n and board[x2][ny2] == 0:
