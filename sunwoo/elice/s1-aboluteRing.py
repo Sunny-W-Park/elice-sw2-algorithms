@@ -1,4 +1,4 @@
-# 도도새
+#절대 반지
 
 import sys
 input = sys.stdin.readline
