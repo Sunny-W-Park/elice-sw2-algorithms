@@ -6,8 +6,7 @@ graph = []
 for i in range(M):
     graph.append(list(sys.stdin.readline().rstrip()))
 
-print()
-print(graph)
+
 # dfs 함수
 
 
