@@ -1,6 +1,8 @@
 # elice-sw2-algorithms
 엘리스 SW 트랙 2기 파이썬 알고리즘 문제풀이 스터디 레포지토리입니다.
 
+## 진행 기간
+2022.04.21~2022.05.19
 
 ## 참여자
 
@@ -26,4 +28,3 @@
 
 ### 모임 후
 * 풀이 코드를 본 레포지토리에 커밋하고, [wiki](https://github.com/Sunny-W-Park/elice-sw2-algorithms/wiki)에 풀이 과정을 게시합니다.
-
