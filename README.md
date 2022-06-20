@@ -11,7 +11,7 @@
 [박선우](https://github.com/Sunny-W-Park)
 [백성호](https://github.com/shbaek1997)
 [지의신](https://github.com/usgeeus)
-[주지호]()
+[주지호](https://github.com/kypa123)
 
 ## 진행 방법
 
